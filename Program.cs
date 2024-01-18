@@ -42,7 +42,6 @@ public class Program
 
         Console.WriteLine("\nThank you for using the dice throwing simulator. Goodbye!");
 
-
     }
 }
 
